@@ -12,7 +12,7 @@ import org.springframework.web.client.RestTemplate;
 
 import java.util.Objects;
 
-// Define the controller class, and it's base URL for the endpoints
+
 @Controller
 @RequestMapping("/api")
 public class TokenController {
